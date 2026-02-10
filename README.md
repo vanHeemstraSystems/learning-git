@@ -1,2 +1,3 @@
-# learning-git
-Learning Git
+# Learning Git
+
+- [References](./REFERENCES.md)
